@@ -26,7 +26,7 @@ Should be run every Month once the new Masterlist is out. First update with new 
 `python manage.py updateAmaraMapping`
 Run directly after loadMasterlist to add refresh AmaraMappings
 
-`python manage.py updateSubtitles`
+`python manage.py updateAmaraSubtitles`
 download amara subtitle information, this process takes very long
 
 `python manage.py KALangStatistic LANGUAGE`
